@@ -512,6 +512,7 @@ In this course, You will practice more labs of Matplotlib. This will help you to
 
 ## More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Matplotlib Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Matplotlib Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
 - 🔗 [Matplotlib Free Tutorials](https://github.com/labex-labs/matplotlib-free-tutorials)
 
