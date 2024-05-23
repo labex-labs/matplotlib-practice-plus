@@ -11,7 +11,7 @@ In this course, You will practice more labs of Matplotlib. This will help you to
 
 ## Scenarios
 
-|   Index | Name                                                    | Difficulty   | URL                                                                 |
+|   Index | Name                                                    | Difficulty   | Practice                                                            |
 |---------|---------------------------------------------------------|--------------|---------------------------------------------------------------------|
 |     001 | 📖 Matplotlib Anchored Objects                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48536'>Start Lab</a> |
 |     002 | 📖 Matplotlib Font Table Visualization                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48744'>Start Lab</a> |
@@ -509,4 +509,9 @@ In this course, You will practice more labs of Matplotlib. This will help you to
 |     494 | 📖 Matplotlib Path Effects Tutorial                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48855'>Start Lab</a> |
 |     495 | 📖 Adjusting Matplotlib Drawing Order                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49040'>Start Lab</a> |
 |     496 | 📖 Matplotlib Style Sheets                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48964'>Start Lab</a> |
+
+## More
+
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Matplotlib Free Tutorials](https://github.com/labex-labs/matplotlib-free-tutorials)
 
